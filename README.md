@@ -21,3 +21,9 @@ then use GNU stow to create symlinks
 ```
 $ stow .
 ```
+
+if however, there's conflicting files use
+
+```
+$ stow --adopt .
+```
