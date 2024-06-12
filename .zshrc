@@ -154,4 +154,4 @@ source /opt/homebrew/share/powerlevel10k/powerlevel10k.zsh-theme
 source /opt/homebrew/share/zsh-autosuggestions/zsh-autosuggestions.zsh
 source /opt/homebrew/share/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 
-alias ls="eza --color=always --long --no-filesize --icons=always --no-time"
+alias ls="eza --color=always --long --no-filesize --icons=always --no-time --all"
