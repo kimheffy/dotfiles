@@ -1,5 +1,13 @@
 # My Dotfiles
 
+## Prerequisite
+
+### Fonts
+
+```
+brew install --cask font-fira-code-nerd-font
+```
+
 ## Requirements
 
 Ensure you have the following installed
@@ -27,3 +35,12 @@ if however, there's conflicting files use
 ```
 $ stow --adopt .
 ```
+
+## Additional Installations
+
+### All from homebrew
+
+- zsh-autosuggestions
+- zsh-syntax-highlighting
+- powerlevel10k
+- eza
