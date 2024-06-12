@@ -118,7 +118,7 @@ alias v="nvim"
 
 alias config="v ~/.config"
 alias zshconfig="v ~/.zshrc"
-alias dotconfig="v ~/dotfiles"
+alias dotfiles="v ~/dotfiles"
 
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && \. "$NVM_DIR/nvm.sh"  # This loads nvm
