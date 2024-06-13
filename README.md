@@ -38,9 +38,13 @@ $ stow --adopt .
 
 ## Additional Installations
 
-### All from homebrew
+### All from homebrew for zsh
 
 - zsh-autosuggestions
 - zsh-syntax-highlighting
 - powerlevel10k
 - eza
+
+### Tmux
+
+Must download tmux package manager (tpm, tmux-sensible)
