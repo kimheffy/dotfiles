@@ -27,9 +27,3 @@ keymap.set("n", "<C-w><left>", "<C-w><", opts)
 keymap.set("n", "<C-w><right>", "<C-w>>", opts)
 keymap.set("n", "<C-w><up>", "<C-w>+", opts)
 keymap.set("n", "<C-w><down>", "<C-w>-", opts)
-
--- Tmux Navigator
-keymap.set("n", "<C-h>", "<cmd> TmuxNavigateLeft<CR>", opts)
-keymap.set("n", "<C-l>", "<cmd> TmuxNavigateRight<CR>", opts)
-keymap.set("n", "<C-j>", "<cmd> TmuxNavigateDown<CR>", opts)
-keymap.set("n", "<C-k>", "<cmd> TmuxNavigateUp<CR>", opts)
