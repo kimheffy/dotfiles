@@ -1,0 +1,16 @@
+[general]
+import = [
+	"~/.config/alacritty/themes/themes/argonaut.toml"
+]
+
+[env]
+TERM = "xterm-256color"
+
+[window]
+decorations = "buttonless"
+opacity = 0.75
+blur = true
+padding = { x = 6, y = 6}
+
+[font]
+normal = { family = "JetBrainsMono", style = "Regular"}
